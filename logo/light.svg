@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 36" fill="none">
+  <!-- Speech bubble icon -->
+  <path d="M4 8C4 5.79 5.79 4 8 4H22C24.21 4 26 5.79 26 8V20C26 22.21 24.21 24 22 24H16L10 30V24H8C5.79 24 4 22.21 4 20V8Z" fill="#3B82F6"/>
+  <!-- Sound wave dots inside bubble -->
+  <circle cx="11" cy="14" r="1.5" fill="white"/>
+  <circle cx="15" cy="14" r="1.5" fill="white"/>
+  <circle cx="19" cy="14" r="1.5" fill="white"/>
+  <!-- Text: Kotoba.AI -->
+  <text x="34" y="22" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#1E293B">Kotoba</text>
+  <text x="100" y="22" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#3B82F6">.AI</text>
+</svg>

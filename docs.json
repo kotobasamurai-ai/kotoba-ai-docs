@@ -1,0 +1,74 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "Kotoba.AI",
+  "theme": "mint",
+  "colors": {
+    "primary": "#4f46e5",
+    "light": "#a5b4fc",
+    "dark": "#312e81"
+  },
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "favicon": "/logo/light.svg",
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "ダッシュボード",
+      "href": "https://app.ai-contact.com"
+    }
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "ドキュメント",
+        "groups": [
+          {
+            "group": "はじめに",
+            "pages": [
+              "index",
+              "getting-started/quick-start"
+            ]
+          },
+          {
+            "group": "エージェント",
+            "pages": [
+              "agents/overview",
+              "agents/basic-grammar"
+            ]
+          },
+          {
+            "group": "電話番号",
+            "pages": [
+              "phone-numbers/overview"
+            ]
+          },
+          {
+            "group": "セッション",
+            "pages": [
+              "sessions/overview"
+            ]
+          },
+          {
+            "group": "連携",
+            "pages": [
+              "integrations/overview"
+            ]
+          },
+          {
+            "group": "FAQ",
+            "pages": [
+              "faq/overview"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "socials": {
+      "github": "https://github.com/nicekotoba"
+    }
+  }
+}
