@@ -35,10 +35,7 @@
             "group": "エージェント",
             "pages": [
               "agents/overview",
-              "agents/basic-grammar",
-              "agents/conditions",
-              "agents/tools",
-              "agents/flow-control"
+              "agents/tools"
             ]
           },
           {
@@ -54,17 +51,17 @@
             ]
           },
           {
-            "group": "共通エージェント",
+            "group": "分析",
             "pages": [
-              "shared-agents/overview"
+              "sessions/overview",
+              "evaluations/overview"
             ]
           },
           {
-            "group": "運用",
+            "group": "設定",
             "pages": [
               "routing/overview",
-              "sessions/overview",
-              "evaluations/overview"
+              "settings/overview"
             ]
           }
         ]
