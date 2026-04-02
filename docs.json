@@ -42,15 +42,15 @@
             ]
           },
           {
-            "group": "基本設定",
-            "pages": [
-              "settings/overview"
-            ]
-          },
-          {
             "group": "ツール",
             "pages": [
               "tools/overview"
+            ]
+          },
+          {
+            "group": "ボイス",
+            "pages": [
+              "voices/overview"
             ]
           },
           {
