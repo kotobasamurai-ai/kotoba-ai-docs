@@ -35,31 +35,36 @@
             "group": "エージェント",
             "pages": [
               "agents/overview",
-              "agents/basic-grammar"
+              "agents/basic-grammar",
+              "agents/conditions",
+              "agents/tools",
+              "agents/flow-control"
             ]
           },
           {
-            "group": "電話番号",
+            "group": "基本設定",
             "pages": [
-              "phone-numbers/overview"
+              "settings/overview"
             ]
           },
           {
-            "group": "セッション",
+            "group": "ツール",
             "pages": [
-              "sessions/overview"
+              "tools/overview"
             ]
           },
           {
-            "group": "連携",
+            "group": "共通エージェント",
             "pages": [
-              "integrations/overview"
+              "shared-agents/overview"
             ]
           },
           {
-            "group": "FAQ",
+            "group": "運用",
             "pages": [
-              "faq/overview"
+              "routing/overview",
+              "sessions/overview",
+              "evaluations/overview"
             ]
           }
         ]
