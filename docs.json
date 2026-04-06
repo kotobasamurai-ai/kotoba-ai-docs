@@ -34,14 +34,16 @@
           {
             "group": "エージェント",
             "pages": [
-              "agents/overview",
-              "agents/tools"
+              "agents/overview"
             ]
           },
           {
             "group": "ツール",
             "pages": [
-              "tools/overview"
+              "tools/overview",
+              "tools/realtime-tools",
+              "tools/post-call-tools",
+              "tools/custom-tools"
             ]
           },
           {
