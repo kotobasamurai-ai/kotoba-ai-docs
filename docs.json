@@ -41,8 +41,14 @@
             "group": "ツール",
             "pages": [
               "tools/overview",
-              "tools/realtime-tools",
-              "tools/post-call-tools",
+              {
+                "group": "標準ツール",
+                "icon": "shapes",
+                "pages": [
+                  "tools/realtime-tools",
+                  "tools/post-call-tools"
+                ]
+              },
               "tools/custom-tools"
             ]
           },
